@@ -1,3 +1,3 @@
 # AnraiPHP
 Anrai's study framework based on composer
-2017Äê7ÔÂ19ÈÕ21:33
+2017-7-19 composer initialize
