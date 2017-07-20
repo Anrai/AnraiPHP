@@ -1,4 +1,11 @@
 {
-  "require": {
-  }
+    "require": {
+        "noahbuscher/macaw": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+        "app/Controllers",
+        "app/Models"
+        ]
+    }
 }
